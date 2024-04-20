@@ -1,0 +1,224 @@
+
+
+.container_paneles{
+
+    position:absolute;
+    top:65%;
+    height: auto;
+    background-color: rgb(9, 17, 17);
+
+}
+.sub_paneles{
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
+
+/*   primer  panel*/
+.primer_panel{
+    background-image: url("../../../../public/cover-register.png");
+    margin: 4%;
+    border-radius:50px;
+    background-color: black;
+}
+.primera_capa{
+    padding: 2%;
+    border-radius:50px;
+    background: rgba(131, 58, 180, 0.089);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.144) 0%, rgba(253, 29, 29, 0.171) 50%, rgba(252, 176, 69, 0.651) 100%);
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+}
+.primera_capa:active{
+    background-color: rgba(250, 235, 215, 0.253);
+    width: 60%;
+    padding: 5%;
+    transition: 1s;
+}
+
+.primera_capa h1 {  
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    padding: 1%;
+}
+
+.primera_capa p {  
+    font-weight: bold;
+    font-size:80%;
+    text-align: center;
+    color: rgb(194, 194, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+/*   segundo  panel*/
+.segundo_panel{
+    background-image: url("../../../../public/prograamacion.jpg");
+    margin: 4%;
+    border-radius:50px;
+    background-color: black;
+}
+.segunda_capa{
+    padding: 2%;
+    border-radius:50px;
+    background: rgba(131, 58, 180, 0.089);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.582) 0%, rgba(253, 29, 29, 0.171) 50%, rgba(252, 176, 69, 0.651) 100%);
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+}
+.segunda_capa:active{
+    background-color: rgba(250, 235, 215, 0.253);
+    width: 60%;
+    padding: 5%;
+    transition: 1s;
+}
+
+.segunda_capa h1 {  
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    padding: 1%;
+}
+
+.segunda_capa p {  
+    font-weight: bold;
+    font-size:80%;
+    text-align: center;
+    color: rgb(194, 194, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+
+/*   segundo  panel*/
+.segundo_panel{
+    background-image: url("../../../../public/prograamacion.jpg");
+    margin: 4%;
+    border-radius:50px;
+    background-color: black;
+}
+.segunda_capa{
+    padding: 2%;
+    border-radius:50px;
+    background: rgba(131, 58, 180, 0.089);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.582) 0%, rgba(253, 29, 29, 0.171) 50%, rgba(252, 176, 69, 0.651) 100%);
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+}
+.segunda_capa:active{
+    background-color: rgba(250, 235, 215, 0.253);
+    width: 60%;
+    padding: 5%;
+    transition: 1s;
+}
+
+.segunda_capa h1 {  
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    padding: 1%;
+}
+
+.segunda_capa p {  
+    font-weight: bold;
+    font-size:80%;
+    text-align: center;
+    color: rgb(194, 194, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+
+/*   tercer  panel*/
+.tercer_panel{
+    background-image: url("../../../../public/programacion-3.jpg");
+    margin: 4%;
+    border-radius:50px;
+    background-color: black;
+}
+.tercera_capa{
+    padding: 2%;
+    border-radius:50px;
+    background: rgba(131, 58, 180, 0.089);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.582) 0%, rgba(253, 29, 29, 0.171) 50%, rgba(252, 176, 69, 0.651) 100%);
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+}
+.tercera_capa:active{
+    background-color: rgba(250, 235, 215, 0.253);
+    width: 60%;
+    padding: 5%;
+    transition: 1s;
+}
+
+.tercera_capa h1 {  
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    padding: 1%;
+}
+
+.tercera_capa p {  
+    font-weight: bold;
+    font-size:80%;
+    text-align: center;
+    color: rgb(194, 194, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+
+/*   cuarto  panel*/
+.cuarto_panel{
+    background-image: url("../../../../public/Cursos-Gratuitos.png");
+    margin: 4%;
+    border-radius:50px;
+    background-color: black;
+}
+.cuarta_capa{
+    padding: 2%;
+    border-radius:50px;
+    background: rgba(131, 58, 180, 0.089);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.582) 0%, rgba(253, 29, 29, 0.171) 50%, rgba(252, 176, 69, 0.651) 100%);
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+}
+.cuarta_capa:active{
+    background-color: rgba(250, 235, 215, 0.253);
+    width: 60%;
+    padding: 5%;
+    transition: 1s;
+}
+
+.cuarta_capa h1 {  
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    padding: 1%;
+}
+
+.cuarta_capa p {  
+    font-weight: bold;
+    font-size:80%;
+    text-align: center;
+    color: rgb(194, 194, 194);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
